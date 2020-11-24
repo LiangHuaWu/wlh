@@ -1,1 +1,3 @@
 This is b4.txt
+
+I modify b4.txt
